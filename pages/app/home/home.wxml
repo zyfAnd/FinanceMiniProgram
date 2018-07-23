@@ -1,0 +1,14 @@
+<view class="home_bg">
+  <view class="home_container">
+
+    <view class="choiceIcon"  bindtap="pass_go">
+    
+       <view class="choiceIcon"> 
+         <image class = "image" src="../../../imgs/start.png"></image> 
+         <view class='imageText'>开始答题</view>
+       </view> 
+    </view>
+    
+  </view>
+  
+</view>
